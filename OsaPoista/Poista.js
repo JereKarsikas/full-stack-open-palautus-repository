@@ -1,3 +1,0 @@
-function poistaMut() {
-  return "poistitkoJo";
-}
